@@ -1,0 +1,15 @@
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\PDFToWord.exe.config
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\PDFToWord.exe
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\PDFToWord.pdb
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Spire.Doc.dll
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Spire.License.dll
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Spire.Pdf.dll
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Microsoft.mshtml.dll
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Spire.Doc.xml
+E:\C#工具\PDFToWord\PDFToWord\bin\Debug\Spire.License.xml
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.csprojResolveAssemblyReference.cache
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.Form1.resources
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.Properties.Resources.resources
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.csproj.GenerateResource.Cache
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.exe
+E:\C#工具\PDFToWord\PDFToWord\obj\Debug\PDFToWord.pdb
